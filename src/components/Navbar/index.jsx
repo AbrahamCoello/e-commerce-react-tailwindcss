@@ -4,7 +4,7 @@ import NavItem from './NavItem';
 const primaryMenu = [
   {
     to: '/',
-    text: 'ofertilandia',
+    text: 'Ofertilandia',
     className: 'font-semibold text-lg',
   },
   {
