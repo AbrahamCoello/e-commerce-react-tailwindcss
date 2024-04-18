@@ -4,7 +4,7 @@ import NavItem from './NavItem';
 const primaryMenu = [
   {
     to: '/',
-    text: 'Shopi',
+    text: 'ofertilandia',
     className: 'font-semibold text-lg',
   },
   {
